@@ -1,87 +1,89 @@
 # 👋 Hi, I'm Tirtho Saha
 
-🚀 **Java Developer | Spring Boot Enthusiast | Backend Learner**
+💼 **Java Backend Developer | Spring Boot | Servlet | REST API | MySQL**
 
 ---
 
-## 💫 About Me
+## 🚀 Professional Summary
 
-* 💻 I’m passionate about building backend systems using **Java & Spring Boot**
-* 🌱 Currently learning **Microservices, System Design & REST API best practices**
-* 🔍 Interested in **Software Engineering & Competitive Programming**
-* 🎯 Goal: Become a **skilled backend engineer** and work in top tech or banking IT sectors
-* ⚡ Fun fact: I enjoy solving problems on Codeforces & improving logic daily
+Backend developer with strong experience in **Java, Servlet, and Spring Boot**, building scalable and maintainable web applications. Solid understanding of **HTTP lifecycle, server-side processing, and database integration**. Passionate about writing clean code and solving real-world problems.
+
+---
+
+## ⚡ Core Skills
+
+✔ Build RESTful APIs using Spring Boot
+✔ Develop dynamic web applications using **Java Servlet & JSP**
+✔ Strong understanding of **request-response lifecycle (HTTP)**
+✔ Database design & optimization with MySQL/PostgreSQL
+✔ Problem solving with Data Structures & Algorithms
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+**Languages:**
+Java • SQL • C (Basic)
 
-* Java
-* SQL
-* C (Basic)
+**Backend:**
+Spring Boot • Spring MVC • **Java Servlet • JSP** • REST API • JDBC
 
-### ⚙️ Backend
+**Database:**
+MySQL • PostgreSQL
 
-* Spring Boot
-* Spring MVC
-* REST API Development
+**Tools:**
+Git • GitHub • Maven • Postman • IntelliJ IDEA
 
-### 🗄️ Database
+---
 
-* MySQL
-* PostgreSQL
+## 📌 Featured Projects
 
-### 🔧 Tools & Technologies
+### 🔹 Inventory Management System
 
-* Git & GitHub
-* IntelliJ IDEA / VS Code
-* Maven
-* Postman
+* Built with **Spring Boot + MySQL**
+* Designed REST APIs for CRUD operations
+* Applied layered architecture (Controller → Service → Repository)
+
+### 🔹 Servlet-Based Web Application
+
+* Developed using **Java Servlet & JSP**
+* Handled client requests using **doGet() and doPost()**
+* Managed session & form data processing
+* Integrated with MySQL using JDBC
+
+### 🔹 Student Management System
+
+* Java-based system with database integration
+* Efficient CRUD operations and data handling
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tirtho's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 Streak Stats
+## 🧠 Currently Improving
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-### 📌 Inventory Management System
-
-* Built with **Spring Boot + MySQL**
-* Features: CRUD, REST API, Authentication
-
-### 📌 Student Management System
-
-* Java-based project with database integration
-* Handles student records efficiently
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
-
----
-
-## 🧠 Currently Learning
-
+* Spring Security & JWT Authentication
 * Microservices Architecture
-* Docker & Deployment
-* Advanced Spring Security
+* System Design (Scalability & Performance)
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
+## 🎯 Career Goal
+
+To become a **highly skilled Backend Engineer** and contribute to building secure, scalable systems in professional environments.
+
+---
+
+## 📫 Contact
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+🔗 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ *Strong fundamentals + modern frameworks = reliable backend systems*
