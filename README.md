@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Tirtho Saha
 
+🚀 **Java Developer | Spring Boot Enthusiast | Backend Learner**
 
-**tirtho2002/tirtho2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 💻 I’m passionate about building backend systems using **Java & Spring Boot**
+* 🌱 Currently learning **Microservices, System Design & REST API best practices**
+* 🔍 Interested in **Software Engineering & Competitive Programming**
+* 🎯 Goal: Become a **skilled backend engineer** and work in top tech or banking IT sectors
+* ⚡ Fun fact: I enjoy solving problems on Codeforces & improving logic daily
 
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+* Java
+* SQL
+* C (Basic)
+
+### ⚙️ Backend
+
+* Spring Boot
+* Spring MVC
+* REST API Development
+
+### 🗄️ Database
+
+* MySQL
+* PostgreSQL
+
+### 🔧 Tools & Technologies
+
+* Git & GitHub
+* IntelliJ IDEA / VS Code
+* Maven
+* Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Tirtho's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Inventory Management System
+
+* Built with **Spring Boot + MySQL**
+* Features: CRUD, REST API, Authentication
+
+### 📌 Student Management System
+
+* Java-based project with database integration
+* Handles student records efficiently
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## 🧠 Currently Learning
+
+* Microservices Architecture
+* Docker & Deployment
+* Advanced Spring Security
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
