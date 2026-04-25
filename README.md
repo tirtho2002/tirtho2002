@@ -71,8 +71,7 @@ Git • GitHub • Maven • Postman • IntelliJ IDEA
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
+https://github.com/tirtho2002
 ## 🔥 What Makes Me Different
 
 * Strong foundation in **core Java (Servlet, JSP)** + modern framework (**Spring Boot**)
