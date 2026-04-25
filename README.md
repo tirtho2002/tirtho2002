@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Tirtho Saha
 
-💼 **Java Backend Developer | Spring Boot | Servlet | REST API | MySQL**
+💼 **Java Backend Developer | Spring Boot | Servlet | JSP | MySQL**
 
----
+# 🚀 About Me
 
-## 🚀 Professional Summary
+Backend developer with hands-on experience in **Java, Servlet, JSP, and Spring Boot**.
 
-Backend developer with strong experience in **Java, Servlet, and Spring Boot**, building scalable and maintainable web applications. Solid understanding of **HTTP lifecycle, server-side processing, and database integration**. Passionate about writing clean code and solving real-world problems.
+I enjoy building **scalable, secure, and efficient backend systems** and solving real-world problems through software development. I also have a strong interest in **FinTech systems and enterprise applications**.
 
----
+As a developer, my goal is to work in a **stable and growth-oriented environment** where I can contribute to impactful systems and help improve services for users and the community.
 
 ## ⚡ Core Skills
 
-✔ Build RESTful APIs using Spring Boot
-✔ Develop dynamic web applications using **Java Servlet & JSP**
-✔ Strong understanding of **request-response lifecycle (HTTP)**
-✔ Database design & optimization with MySQL/PostgreSQL
-✔ Problem solving with Data Structures & Algorithms
-
----
+✔ Backend development using **Java & Spring Boot**
+✔ Web development using **Servlet & JSP**
+✔ Strong understanding of **HTTP lifecycle & request-response flow**
+✔ REST API design and implementation
+✔ Database design and management using **MySQL/PostgreSQL**
+✔ Problem solving using Data Structures & Algorithms
 
 ## 🛠️ Tech Stack
 
@@ -26,64 +25,76 @@ Backend developer with strong experience in **Java, Servlet, and Spring Boot**, 
 Java • SQL • C (Basic)
 
 **Backend:**
-Spring Boot • Spring MVC • **Java Servlet • JSP** • REST API • JDBC
+Spring Boot • Spring MVC • Servlet • JSP • REST API • JDBC
 
 **Database:**
 MySQL • PostgreSQL
 
-**Tools:**
+**Tools & Platforms:**
 Git • GitHub • Maven • Postman • IntelliJ IDEA
-
----
 
 ## 📌 Featured Projects
 
+### 🔹 Alumni Directory & Networking Portal
+
+* Built a platform to connect **students and alumni**
+* Enabled profile creation, search, and networking features
+* Developed using **Java Servlet/JSP and MySQL**
+* Focused on improving **career networking and communication**
+
+### 🔹 AI-Based Class Time Scheduler
+
+* Developed a smart system to manage **class schedules efficiently**
+* Collected teacher availability through communication and optimized scheduling
+* Built during my role as **Class Representative (CR)**
+* Reduced manual effort and scheduling conflicts
+
+### 🔹 Student Resource & Question Bank System
+
+* Created a system for accessing **previous semester & CT questions**
+* Organized academic resources in a structured way for students
+* Improved exam preparation efficiency
+* Built using **Java, Servlet/JSP, and MySQL**
+
 ### 🔹 Inventory Management System
 
-* Built with **Spring Boot + MySQL**
-* Designed REST APIs for CRUD operations
-* Applied layered architecture (Controller → Service → Repository)
+* Built using **Spring Boot + MySQL**
+* Designed RESTful APIs for CRUD operations
+* Implemented layered architecture (Controller → Service → Repository)
 
 ### 🔹 Servlet-Based Web Application
 
 * Developed using **Java Servlet & JSP**
-* Handled client requests using **doGet() and doPost()**
-* Managed session & form data processing
-* Integrated with MySQL using JDBC
-
-### 🔹 Student Management System
-
-* Java-based system with database integration
-* Efficient CRUD operations and data handling
-
----
+* Handled HTTP requests using **doGet() and doPost()**
+* Integrated MySQL database using JDBC
+* Managed session and form data processing
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
----
+## 🔥 What Makes Me Different
 
-## 🧠 Currently Improving
+* Strong foundation in **core Java (Servlet, JSP)** + modern framework (**Spring Boot**)
+* Real-world problem-solving experience (CR-based scheduling system)
+* Focus on **clean, scalable, and maintainable code**
+* Continuous learner with interest in **FinTech & backend systems**
+
+## 🧠 Currently Learning
 
 * Spring Security & JWT Authentication
 * Microservices Architecture
 * System Design (Scalability & Performance)
 
----
-
 ## 🎯 Career Goal
 
-To become a **highly skilled Backend Engineer** and contribute to building secure, scalable systems in professional environments.
+To become a **professional Backend Engineer** working on **secure, scalable, and high-impact systems**, especially in **FinTech and enterprise domains**, while contributing positively to society through technology.
 
----
+## 📫 Contact Me
 
-## 📫 Contact
+📧 Email: [tirthosaha04@gmail.com]
+💼 LinkedIn: https://www.linkedin.com/in/tirtho-saha-b53aa3386/
+🔗 GitHub: https://github.com/tirtho2002
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-🔗 GitHub: https://github.com/YOUR_USERNAME
 
----
-
-⭐ *Strong fundamentals + modern frameworks = reliable backend systems*
+⭐ *“Building backend systems that are simple, scalable, and impactful.”*
