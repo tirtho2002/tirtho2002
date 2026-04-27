@@ -93,11 +93,7 @@ A centralized platform for students to access **previous semester & CT questions
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirtho2002\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🔥 What Makes Me Different
 
